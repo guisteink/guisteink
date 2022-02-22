@@ -16,5 +16,5 @@ Web developer since 2019, student of Computer Engineering since 2017 and passion
 
 ### Stacks
 <div style="display: inline_block">
-  <i class="devicon-nodejs-plain"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
