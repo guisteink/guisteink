@@ -12,6 +12,3 @@ Web developer since 2019, student of Computer Engineering since 2017 and passion
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisteink&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div> 
-  ![Snake animation](https://github.com/guisteink/guisteink/blob/output/github-contribution-grid-snake.svg)
-</div>
