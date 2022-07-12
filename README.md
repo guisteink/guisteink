@@ -4,7 +4,7 @@ Web developer since 2019, student of Computer Engineering since 2017 and passion
 
 * 📚 Computer Engineering student at UFES
 * 💼 Working as a backend developer
-* 🔥 Currently studying Serverless Framework, Microservices Architecture and Cloud Computing (AWS)
+* 🔥 Currently studying Distributed Systems and Microservices Architecture
 
 
 <div align="left">
