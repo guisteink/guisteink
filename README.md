@@ -9,7 +9,7 @@ Web developer since 2019, student of Computer Engineering since 2017 and passion
 
 <div align="left">
   <a href="https://github.com/guisteink">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisteink&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisteink&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 
