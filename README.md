@@ -4,7 +4,7 @@ Web developer since 2019, student of Computer Engineering since 2017 and passion
 
 * 📚 Computer Engineering by UFES
 * 💼 Working as a full-stack developer
-* 🔥 Currently studying Distributed Systems and Microservices Architecture
+* 🔥 Currently studying Go lang
 
 
 <div align="left">
