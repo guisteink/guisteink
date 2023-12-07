@@ -2,7 +2,7 @@
 
 Web developer since 2019, student of Computer Engineering since 2017 and passionate about new technologies since always
 
-* 📚 Computer Engineering by UFES
+* 📚 Computer Engineer by UFES
 * 💼 Working as a full-stack developer
 * 🔥 Currently studying Go lang
 
