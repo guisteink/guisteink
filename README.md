@@ -1,6 +1,6 @@
 # Hey there! I'm Gui
 
-Web developer since 2019, student of Computer Engineering since 2017 and passionate about new technologies since always
+Computer engineer since 2023, Web developer since 2019 and passionate about new technologies since always
 
 * 📚 Computer Engineer by UFES
 * 💼 Working as a full-stack developer
