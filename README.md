@@ -3,7 +3,7 @@
 Computer engineer since 2023, Web developer since 2019 and passionate about new technologies since always
 
 * 📚 Computer Engineer by UFES
-* 💼 Working as a full-stack developer
+* 💼 Working as a backend/sre developer
 
 
 <div align="left">
@@ -14,13 +14,10 @@ Computer engineer since 2023, Web developer since 2019 and passionate about new 
 
 ### Current working stack
 <div style="display: inline_block">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />   
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />     
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/terraform-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/kotlin-original.svg" />   
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/java-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/aws-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />     
 </div>
 
