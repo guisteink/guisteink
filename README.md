@@ -4,7 +4,6 @@ Computer engineer since 2023, Web developer since 2019 and passionate about new 
 
 * 📚 Computer Engineer by UFES
 * 💼 Working as a full-stack developer
-* 🔥 Currently studying Go lang
 
 
 <div align="left">
