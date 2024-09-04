@@ -14,6 +14,8 @@ Computer engineer since 2023, Web developer since 2019 and passionate about new 
 
 ### Current working stack
 <div style="display: inline_block">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
+          
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/terraform.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/kotlin.svg" />   
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/java.svg" />
